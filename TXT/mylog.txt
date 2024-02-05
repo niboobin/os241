@@ -5,3 +5,6 @@ ZCZC W00 30 L10 Assignment #00
 ZCZC W00 4 L05 Quiz related including studying
 ZCZC W00 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 30 L84 Relax, Rest, Nap, and Sleep
+ZCZC W01 60 L09 Assignment W01
+ZCZC W01 10 L03 Github related
+ZCZC W01 10 L04 Github pages related
