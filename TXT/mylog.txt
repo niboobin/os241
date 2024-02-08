@@ -8,3 +8,5 @@ ZCZC W01 30 L84 Relax, Rest, Nap, and Sleep
 ZCZC W01 60 L09 Assignment W01
 ZCZC W01 10 L03 Github related
 ZCZC W01 10 L04 Github pages related
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+
