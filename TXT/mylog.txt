@@ -9,4 +9,7 @@ ZCZC W01 60 L11 Assignment #01
 ZCZC W01 10 L03 Github related
 ZCZC W01 10 L04 Github pages related
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
-
+ZCZC W02 30 L00 General, etc.
+ZCZC W02 20 L01 SCELE/Discord related
+ZCZC W02 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 60 L12 Assignment #02
