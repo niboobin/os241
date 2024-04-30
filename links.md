@@ -10,3 +10,4 @@ permalink: LINKS/
 - [A simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/) --- Makefiles are a simple way to organize code compilation. This tutorial does not even scratch the surface of what is possible using make, but is intended as a starters guide so that you can quickly and easily create your own makefiles for small to medium-sized projects. 
 - [C Pointers](https://www.w3schools.com/c/c_pointers.php) --- A very helpful website to learn pointers in c 
 - [Docusaurus](https://docusaurus.io/docs) --- Introduction to building a website using docusaurus
+- [LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX) - A helpful youtube playlist containing guide videos for LFS
