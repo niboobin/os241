@@ -11,3 +11,4 @@ permalink: LINKS/
 - [C Pointers](https://www.w3schools.com/c/c_pointers.php) --- A very helpful website to learn pointers in c 
 - [Docusaurus](https://docusaurus.io/docs) --- Introduction to building a website using docusaurus
 - [LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX) - A helpful youtube playlist containing guide videos for LFS
+- [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.1/index.html) --- Guide page for building Linux From Scratch
