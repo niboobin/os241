@@ -12,3 +12,4 @@ permalink: LINKS/
 - [Docusaurus](https://docusaurus.io/docs) --- Introduction to building a website using docusaurus
 - [LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX) - A helpful youtube playlist containing guide videos for LFS
 - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.1/index.html) --- Guide page for building Linux From Scratch
+- [GRUB](https://www.codecademy.com/resources/blog/grub-linux/) --- A blog about GRUB 
